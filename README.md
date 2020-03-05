@@ -11,7 +11,7 @@ ls
 python3 useragent.py
 ```
 ```
-pip3 install requirement.txt
+pip3 install -r requirement.txt
 ```
 #### Kontak:
 + Email d_q16x@outlook.co.id
