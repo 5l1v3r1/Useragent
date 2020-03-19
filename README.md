@@ -1,5 +1,5 @@
 # Useragent:
-*User Agent adalah informasi yang berisi identifikasi OS, browser, dan device yg dikirimkan oleh komputer ke webserver. Informasi user agent tersebut kemudian digunakan web server untuk mengirimkan konten yg sesuai dengan system dan device yang digunakan.*
+*User Agent adalah informasi yang berisi identifikasi OS, browser, dan device yg dikirimkan oleh komputer ke webserver. Informasi user agent tersebut kemudian digunakan web server untuk mengirimkan konten yang sesuai dengan system dan device yang digunakan.*
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
