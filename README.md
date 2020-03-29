@@ -2,7 +2,7 @@
 <h5 align="center">User Agent adalah informasi yang berisi identifikasi OS, browser, dan device yg dikirimkan oleh komputer ke webserver. Informasi user agent tersebut kemudian digunakan web server untuk mengirimkan konten yang sesuai dengan system dan device yang digunakan.</h5>
 
 <p align="center">
-  <a href="www.python.org">
+  <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Language-Python3-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Useragent/blob/master/LICENSE">
