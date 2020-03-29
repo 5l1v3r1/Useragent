@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="www.python.org">
-    <img src="https://img.shields.io/badge/Language-Python-blue.svg">
+    <img src="https://img.shields.io/badge/Language-Python3-blue.svg">
   </a>
   <a href="https://github.com/stepbystepexe/Useragent/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-red.svg">
